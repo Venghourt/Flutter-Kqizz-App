@@ -1,0 +1,85 @@
+{
+  "categories": [
+    {
+      "id": "country",
+      "name": "Country",
+      "description": "Guess the country from the flag"
+    },
+    {
+      "id": "animal",
+      "name": "Animal",
+      "description": "Guess the animal from the image"
+    }
+  ],
+
+  "countries": [
+    { "id": 1, "name": "Japan", "image": "assets/flags/japan_flag.png", "difficulty": "Easy" },
+    { "id": 2, "name": "France", "image": "assets/flags/france_flag.png", "difficulty": "Easy" },
+    { "id": 3, "name": "USA", "image": "assets/flags/usa_flag.png", "difficulty": "Easy" },
+    { "id": 4, "name": "United Kingdom", "image": "assets/flags/uk_flag.png", "difficulty": "Easy" },
+    { "id": 5, "name": "Germany", "image": "assets/flags/germany_flag.png", "difficulty": "Easy" },
+    { "id": 6, "name": "Italy", "image": "assets/flags/italy_flag.png", "difficulty": "Easy" },
+    { "id": 7, "name": "Canada", "image": "assets/flags/canada_flag.png", "difficulty": "Easy" },
+    { "id": 8, "name": "China", "image": "assets/flags/china_flag.png", "difficulty": "Easy" },
+    { "id": 9, "name": "South Korea", "image": "assets/flags/south_korea_flag.png", "difficulty": "Easy" },
+    { "id": 10, "name": "Spain", "image": "assets/flags/spain_flag.png", "difficulty": "Easy" },
+
+    { "id": 11, "name": "Cambodia", "image": "assets/flags/cambodia_flag.png", "difficulty": "Medium" },
+    { "id": 12, "name": "Laos", "image": "assets/flags/laos_flag.png", "difficulty": "Medium" },
+    { "id": 13, "name": "Egypt", "image": "assets/flags/egypt_flag.png", "difficulty": "Medium" },
+    { "id": 14, "name": "Nepal", "image": "assets/flags/nepal_flag.png", "difficulty": "Medium" },
+    { "id": 15, "name": "Mongolia", "image": "assets/flags/mongolia_flag.png", "difficulty": "Medium" },
+    { "id": 16, "name": "Sri Lanka", "image": "assets/flags/sri_lanka_flag.png", "difficulty": "Medium" },
+    { "id": 17, "name": "Bangladesh", "image": "assets/flags/bangladesh_flag.jpg", "difficulty": "Medium" },
+    { "id": 18, "name": "Myanmar", "image": "assets/flags/myanmar_flag.png", "difficulty": "Medium" },
+    { "id": 19, "name": "Jordan", "image": "assets/flags/jordan_flag.png", "difficulty": "Medium" },
+    { "id": 20, "name": "Portugal", "image": "assets/flags/portugal_flag.png", "difficulty": "Medium" },
+
+    { "id": 21, "name": "South Africa", "image": "assets/flags/south_africa_flag.png", "difficulty": "Hard" },
+    { "id": 22, "name": "Kenya", "image": "assets/flags/kenya_flag.png", "difficulty": "Hard" },
+    { "id": 23, "name": "Indonesia", "image": "assets/flags/indonesia_flag.png", "difficulty": "Hard" },
+    { "id": 24, "name": "Bolivia", "image": "assets/flags/bolivia_flag.png", "difficulty": "Hard" },
+    { "id": 25, "name": "Paraguay", "image": "assets/flags/paraguay_flag.png", "difficulty": "Hard" },
+    { "id": 26, "name": "Guatemala", "image": "assets/flags/guatemala_flag.png", "difficulty": "Hard" },
+    { "id": 27, "name": "Honduras", "image": "assets/flags/honduras_flag.png", "difficulty": "Hard" },
+    { "id": 28, "name": "Tanzania", "image": "assets/flags/tanzania_flag.png", "difficulty": "Hard" },
+    { "id": 29, "name": "Senegal", "image": "assets/flags/senegal_flag.png", "difficulty": "Hard" },
+    { "id": 30, "name": "Papua New Guinea", "image": "assets/flags/papua_new_guinea_flag.png", "difficulty": "Hard" }
+  ],
+
+  "animals": [
+    { "id": 1, "name": "Tiger", "image": "assets/animals/tiger.png", "difficulty": "Easy" },
+    { "id": 2, "name": "Lion", "image": "assets/animals/lion.png", "difficulty": "Easy" },
+    { "id": 3, "name": "Elephant", "image": "assets/animals/elephant.png", "difficulty": "Easy" },
+    { "id": 4, "name": "Dog", "image": "assets/animals/dog.png", "difficulty": "Easy" },
+    { "id": 5, "name": "Cat", "image": "assets/animals/cat.png", "difficulty": "Easy" },
+    { "id": 6, "name": "Horse", "image": "assets/animals/horse.png", "difficulty": "Easy" },
+    { "id": 7, "name": "Cow", "image": "assets/animals/cow.png", "difficulty": "Easy" },
+    { "id": 8, "name": "Rabbit", "image": "assets/animals/rabbit.png", "difficulty": "Easy" },
+    { "id": 9, "name": "Monkey", "image": "assets/animals/monkey.png", "difficulty": "Easy" },
+    { "id": 10, "name": "Panda", "image": "assets/animals/panda.png", "difficulty": "Easy" },
+
+    { "id": 11, "name": "Giraffe", "image": "assets/animals/giraffe.png", "difficulty": "Medium" },
+    { "id": 12, "name": "Zebra", "image": "assets/animals/zebra.png", "difficulty": "Medium" },
+    { "id": 13, "name": "Crocodile", "image": "assets/animals/crocodile.png", "difficulty": "Medium" },
+    { "id": 14, "name": "Wolf", "image": "assets/animals/wolf.png", "difficulty": "Medium" },
+    { "id": 15, "name": "Fox", "image": "assets/animals/fox.png", "difficulty": "Medium" },
+    { "id": 16, "name": "Kangaroo", "image": "assets/animals/kangaroo.png", "difficulty": "Medium" },
+    { "id": 17, "name": "Penguin", "image": "assets/animals/penguin.png", "difficulty": "Medium" },
+    { "id": 18, "name": "Koala", "image": "assets/animals/koala.png", "difficulty": "Medium" },
+    { "id": 19, "name": "Peacock", "image": "assets/animals/peacock.png", "difficulty": "Medium" },
+    { "id": 20, "name": "Owl", "image": "assets/animals/owl.png", "difficulty": "Medium" },
+
+    { "id": 21, "name": "Axolotl", "image": "assets/animals/axolotl.png", "difficulty": "Hard" },
+    { "id": 22, "name": "Okapi", "image": "assets/animals/okapi.png", "difficulty": "Hard" },
+    { "id": 23, "name": "Narwhal", "image": "assets/animals/narwhal.png", "difficulty": "Hard" },
+    { "id": 24, "name": "Capybara", "image": "assets/animals/capybara.png", "difficulty": "Hard" },
+    { "id": 25, "name": "Platypus", "image": "assets/animals/platypus.png", "difficulty": "Hard" },
+    { "id": 26, "name": "Mantis Shrimp", "image": "assets/animals/mantis_shrimp.png", "difficulty": "Hard" },
+    { "id": 27, "name": "Aye-Aye", "image": "assets/animals/aye_aye.png", "difficulty": "Hard" },
+    { "id": 28, "name": "Fossa", "image": "assets/animals/fossa.png", "difficulty": "Hard" },
+    { "id": 29, "name": "Saiga Antelope", "image": "assets/animals/saiga.png", "difficulty": "Hard" },
+    { "id": 30, "name": "Tarsier", "image": "assets/animals/tarsier.png", "difficulty": "Hard" }
+  ]
+
+}
